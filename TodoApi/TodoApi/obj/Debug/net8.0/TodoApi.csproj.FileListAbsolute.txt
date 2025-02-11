@@ -41,3 +41,47 @@ C:\Users\Pedro\Documents\mapa-cidadao\TodoApi\TodoApi\obj\Debug\net8.0\refint\To
 C:\Users\Pedro\Documents\mapa-cidadao\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\Pedro\Documents\mapa-cidadao\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\Pedro\Documents\mapa-cidadao\TodoApi\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.staticwebassets.endpoints.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.exe
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Projetos Udemy\dotnet-projects\TodoApi\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
