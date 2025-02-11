@@ -1,0 +1,65 @@
+# Compilação
+bin/
+obj/
+
+# Dependências
+packages/
+!packages/build/
+
+# Arquivos de build
+*.csproj.user
+*.suo
+*.user
+*.cache
+*.dll
+*.pdb
+*.exe
+*.log
+*.msi
+*.appx
+*.appxbundle
+*.nupkg
+*.snupkg
+*.vsix
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.sln.ide
+
+# Diretórios do Visual Studio
+.vs/
+
+# Logs e temporários
+*.log
+logs/
+
+# Configuração de usuário
+*.userprefs
+*.sln.docstates
+
+# Configurações do sistema
+Thumbs.db
+Desktop.ini
+
+# Arquivos secretos e credenciais
+secrets.json
+appsettings*.json
+
+# Docker e containerization
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+# Node e frontend
+node_modules/
+yarn.lock
+package-lock.json
+
+# Testes e relatórios
+TestResults/
+coverage/
+
+# Outros
+*.bak
+*.tmp
